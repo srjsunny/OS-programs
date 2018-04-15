@@ -70,7 +70,7 @@ maximum = arr[n-1];
 
 int main() 
 {
-printf("enter the size of array\n");
+//printf("enter the size of array\n");
 scanf("%d",&n);
 for(int i=0;i<n;i++)
 {
