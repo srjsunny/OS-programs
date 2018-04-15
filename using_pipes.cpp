@@ -14,7 +14,7 @@ Case 2:
 hiThere
 Output:
 the modified input is HItHERE
-/
+*/
 
 #include <iostream>
 
